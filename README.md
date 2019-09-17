@@ -1,1 +1,2 @@
-# Python-Learning-Note
+#Pthon
+此库记录了本人学习蟒蛇过程中编辑过的文件
